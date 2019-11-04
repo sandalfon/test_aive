@@ -1,0 +1,2774 @@
+{
+    "buyers": [
+        {
+            "name": "google",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.12,
+                        0.47
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.9
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "facebook",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.32
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "doubleclick",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.11,
+                        0.69
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "google-analytics",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.12
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "akamaihd",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.77
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "googlesyndication",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.21,
+                        0.47
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "googleapis",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.37
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.21,
+                        0.61
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "googleadservices",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.03,
+                        0.66
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "facebook",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.59
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "youtube",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.51
+                    ]
+                },
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.57
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "twitter",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.58
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.45,
+                        0.74
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "scorecardresearch",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.14
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.74,
+                        0.97
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "microsoft",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.03,
+                        0.23
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ytimg",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.31
+                    ]
+                },
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.13
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "googleusercontent",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.03,
+                        0.43
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "apple",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.87
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.43,
+                        0.52
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "msftncsi",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.42
+                    ]
+                },
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.09,
+                        0.23
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2mdn",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.89
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "googletagservices",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.74
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.66
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adnxs",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.23
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.67,
+                        0.91
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "yahoo",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        1
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.22,
+                        0.32
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "serving-sys",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.11,
+                        0.2
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "akadns",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.48,
+                        0.96
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.85
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bluekai",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.12
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ggpht",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.63
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.12
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "rubiconproject",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.35,
+                        0.56
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "verisign",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.16
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "addthis",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.73
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.26
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "crashlytics",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.8
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "amazonaws",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.73
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.38
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "quantserve",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.33
+                    ]
+                },
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.2,
+                        0.77
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "akamaiedge",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.32,
+                        0.72
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "live",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.78,
+                        0.95
+                    ]
+                },
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.55,
+                        0.56
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "googletagmanager",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.12,
+                        0.18
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "revsci",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.68
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adadvisor",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.52,
+                        0.55
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.88
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "openx",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.59
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "digicert",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.23,
+                        0.9
+                    ]
+                },
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.54
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "pubmatic",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.04
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "agkn",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.79
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "instagram",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.01,
+                        0.45
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.02,
+                        0.63
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "mathtag",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.08,
+                        0.33
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "gmail",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.25
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "rlcdn",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.41,
+                        0.64
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.34,
+                        0.5
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "linkedin",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.54
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.18,
+                        0.43
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "yahooapis",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.08,
+                        0.21
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.22,
+                        0.89
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "chartbeat",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.73
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.36,
+                        0.62
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "twimg",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.83
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "turn",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.36,
+                        0.65
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.09
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "crwdcntrl",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.22,
+                        0.65
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "demdex",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.6
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.02,
+                        0.16
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "betrad",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.75
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "flurry",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.04,
+                        0.15
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "newrelic",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.65,
+                        0.71
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "yimg",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.55
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.96
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "youtube-nocookie",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.44
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "exelator",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.93,
+                        0.99
+                    ]
+                },
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.16,
+                        0.69
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "acxiom-online",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.62
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.71,
+                        0.77
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "imrworldwide",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.35
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "amazon",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.38,
+                        0.42
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "fbcdn",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.11,
+                        0.63
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.7
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "windowsupdate",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.77
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.24,
+                        0.78
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "mookie1",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.25,
+                        0.43
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "rfihub",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.1,
+                        0.85
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "omniroot",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.14,
+                        0.75
+                    ]
+                },
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.72,
+                        0.78
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adsrvr",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.02
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.56,
+                        0.57
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "nexac",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.65
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.32
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bing",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.89
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "skype",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.66
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "godaddy",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.44
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "sitescout",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.73
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "tubemogul",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.43,
+                        0.94
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.84
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "contextweb",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.48
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.65
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "w55c",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.01
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.04,
+                        0.58
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "chartbeat",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.25,
+                        0.46
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "akamai",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.07,
+                        0.32
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.45
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "jquery",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.21,
+                        0.96
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adap",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.77,
+                        0.79
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.19,
+                        0.97
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "criteo",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.78,
+                        0.96
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "krxd",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.12,
+                        0.5
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "optimizely",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.03
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "macromedia",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.18,
+                        0.47
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "comodoca",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.1
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.01,
+                        0.75
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "casalemedia",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.55,
+                        0.83
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "pinterest",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.98
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adsymptotic",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.78
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "symcd",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.95,
+                        0.96
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "atwola",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.31,
+                        0.53
+                    ]
+                },
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.57
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adobe",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.05,
+                        0.15
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.6
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "msn",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.32,
+                        0.82
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adsafeprotected",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.63
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.83
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "tapad",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.51,
+                        0.66
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "truste",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.72,
+                        0.92
+                    ]
+                },
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.34
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "symantecliveupdate",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.13,
+                        0.79
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "atdmt",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.51,
+                        0.57
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "t",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.43
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "avast",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.3
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "google",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.6
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "spotxchange",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.46,
+                        0.92
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "tidaltv",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.57
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adtechus",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.61
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "everesttech",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.41
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "addthisedge",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.38,
+                        0.59
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "hola",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.57
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "btrll",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.27
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "gwallet",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.36,
+                        0.37
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "liverail",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.68
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.2
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "windows",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.43,
+                        0.69
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "burstnet",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.94
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "disqus",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.35,
+                        0.39
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "nr-data",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.07,
+                        0.9
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "p-td",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.45,
+                        0.5
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "geotrust",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.04
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "admob",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.65
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "crittercism",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.96
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bizographics",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.57
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ru4",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.45,
+                        0.75
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "wtp101",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.82
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ksmobile",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.44
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "msads",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.54,
+                        0.91
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.53,
+                        0.71
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "thawte",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.2,
+                        0.71
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.04,
+                        0.47
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "lijit",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.6
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "cloudflare",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.12,
+                        0.97
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "360yield",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.15
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "dropbox",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.24
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "simpli",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.2,
+                        0.86
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "smartadserver",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.24,
+                        0.65
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "globalsign",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.41
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "mlnadvertising",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.1
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "chango",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.09,
+                        0.23
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "connexity",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.25,
+                        0.82
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.08
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "moatads",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.09
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "s-msn",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.32,
+                        0.43
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "entrust",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.45,
+                        0.69
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "tribalfusion",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.97
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.47,
+                        0.72
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "domdex",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.56,
+                        0.8
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "google",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.67,
+                        0.85
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "whatsapp",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.01,
+                        0.99
+                    ]
+                },
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.44
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ntp",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.54,
+                        0.74
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "amazon-adsystem",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.32
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "viber",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.15,
+                        0.94
+                    ]
+                },
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.42
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "disquscdn",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        1
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "yandex",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.47,
+                        0.78
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "doubleverify",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.53,
+                        0.86
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bkrtx",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.5,
+                        0.86
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "criteo",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.93
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "outbrain",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.53
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "questionmarket",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.74
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adform",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.05
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "yieldmanager",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.08,
+                        0.43
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "typekit",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.21
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "goo",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.84,
+                        0.98
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "voicefive",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.56
+                    ]
+                },
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.9
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "owneriq",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.12
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "media6degrees",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.72,
+                        0.88
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "tynt",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.46
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "symcb",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.42,
+                        0.65
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "advertising",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.88
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "audienceiq",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.69
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "wp",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.68
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "rtbidder",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.32,
+                        0.35
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "wikipedia",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.47,
+                        0.51
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adroll",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.01,
+                        0.76
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.23
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "icloud",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.35
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.14
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "gravatar",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.64
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "collective-media",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.86
+                    ]
+                },
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.18
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "appsflyer",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.25,
+                        0.74
+                    ]
+                },
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.7
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "dmtry",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.39
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "blogger",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.29
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "taboola",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.18
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "legolas-media",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.08,
+                        0.09
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "images-amazon",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.81
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "afy11",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.83
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.26,
+                        0.59
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "aspnetcdn",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.4,
+                        0.97
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "hike",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.95
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "feedburner",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.83,
+                        0.96
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bootstrapcdn",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.11,
+                        0.99
+                    ]
+                },
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.26,
+                        0.61
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "usertrust",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.42,
+                        0.51
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.8
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adgrx",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.56
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.69,
+                        0.84
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "brilig",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.02
+                    ]
+                },
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.67
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "sharethis",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.94
+                    ]
+                },
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.06,
+                        0.64
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "flashtalking",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.58,
+                        0.88
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "mediaplex",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.6
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "eqads",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.4
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "adscale",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.56,
+                        0.87
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "imgur",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.03,
+                        0.85
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "edgesuite",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.26
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "blogspot",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.56,
+                        0.93
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "msocsp",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.35
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "wikimedia",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.7
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ssl-images-amazon",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.06,
+                        0.58
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.93
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "amung",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.41,
+                        0.89
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "flickr",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.32
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "rundsp",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.5
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "trouter",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.58
+                    ]
+                },
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.81
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "edgekey",
+            "bids": [
+                {
+                    "category": "IAB6",
+                    "prices": [
+                        0.42,
+                        0.47
+                    ]
+                },
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.32
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "rfihub",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.27,
+                        0.65
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.94
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "utorrent",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.84
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "thebrighttag",
+            "bids": [
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.02,
+                        0.45
+                    ]
+                },
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.89
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "eyeviewads",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.12
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "switchads",
+            "bids": [
+                {
+                    "category": "IAB3",
+                    "prices": [
+                        0.56
+                    ]
+                },
+                {
+                    "category": "IAB2",
+                    "prices": [
+                        0.7
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "tiqcdn",
+            "bids": [
+                {
+                    "category": "IAB5",
+                    "prices": [
+                        0.13
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "mozilla",
+            "bids": [
+                {
+                    "category": "IAB1",
+                    "prices": [
+                        0.38,
+                        0.65
+                    ]
+                }
+            ]
+        }
+    ]
+}
